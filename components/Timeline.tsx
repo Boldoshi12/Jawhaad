@@ -11,8 +11,8 @@ export const Timeline: React.FC<TimelineProps> = ({ onComplete }) => {
     {
       id: '1',
       date: 'LOVE',
-      title: 'Diane Mariechild',
-      description:'A woman is the full circle. Within her is the power to create, nurture and transform.',
+      title: 'SHINING MAN',
+      description:'Өнөөдөр бол чиний өдөр! 20 насны мянган инээмсэглэл, аз жаргалтай мөчөөр дүүрэн байх болтугай✨',
       icon: <Star className="w-5 h-5 md:w-6 md:h-6" />,
       image: '/photo11.jpeg', // Local image from public folder
       category: 'Guileless',
@@ -20,8 +20,8 @@ export const Timeline: React.FC<TimelineProps> = ({ onComplete }) => {
     {
       id: '2',
       date: 'SMART',
-      title: 'Emma Watson',
-      description: 'Girls should never be afraid to be smart.',
+      title: 'SHINING MAN',
+      description: 'Өдөр бүрийг аз жаргал, шинэ адал явдал, инээдээр дүүрэн өнгөрөөгөрөй.😉',
       icon: <Heart className="w-5 h-5 md:w-6 md:h-6" />,
       image: '/photo22.jpeg', // Local image from public folder
       category: 'Friendly',
@@ -29,8 +29,8 @@ export const Timeline: React.FC<TimelineProps> = ({ onComplete }) => {
     {
       id: '3',
       date: 'COURAGE',
-      title: 'Elizabeth Cady Stanton',
-      description: 'The best protection any woman can have is courage.',
+      title: 'SHINING MAN',
+      description: 'Чиний 20 насны чин амьдрал  аз жаргал, хайр, амжилтаар дүүрэн байг. Төрсөн өдрийн мэнд хүргье♥️',
       icon: <Crown className="w-5 h-5 md:w-6 md:h-6" />,
       image: '/photo33.jpeg', // Local image from public folder
       category: 'Wonderful',
@@ -38,8 +38,8 @@ export const Timeline: React.FC<TimelineProps> = ({ onComplete }) => {
     {
       id: '4',
       date: 'LIMITLESS',
-      title: 'Michelle Obama',
-      description: 'There is no limit to what we, as women, can accomplish.',
+      title: 'SHINING MAN',
+      description: 'Шинэ нас  шинэ боломжууд. Бүх мөрөөдөл чинь биелэх болтугай',
       icon: <Gem className="w-5 h-5 md:w-6 md:h-6" />,
       image: '/photo44.jpeg', // Local image from public folder
       category: 'Powerful',

@@ -43,7 +43,7 @@ export const Vault: React.FC<VaultProps> = ({ onUnlock }) => {
   const [password, setPassword] = useState('');
   const [error, setError] = useState(false);
 
-  const CORRECT_PASSWORD = 'sss'; 
+  const CORRECT_PASSWORD = 'Maralmaa'; 
 
   const handlePasswordSubmit = (e: React.FormEvent) => {
     e.preventDefault();
